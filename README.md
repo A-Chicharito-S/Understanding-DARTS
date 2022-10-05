@@ -3,7 +3,7 @@ this repo is the commented version (only the cnn folder is annotated, and the rn
 
 For citations and details on training etc., please refer to [here](https://github.com/quark0/darts).
 
-To quickly understand the code (take the cnn folder as an example), we can simply devide them into two parts: 
+To quickly understand the code (take the cnn folder as an example), we can simply divide them into two parts: 
 
 1. **code with \'\_search\' suffix**; 2. **w/o \'\_search\' suffix**.
 
